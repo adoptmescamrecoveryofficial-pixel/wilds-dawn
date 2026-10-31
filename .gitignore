@@ -1,0 +1,12 @@
+*.keys
+*.nsp
+*.xci
+extracted/
+cache/
+save/
+save-backups/
+music/*.mp3
+zig/
+swgame.dll
+*.log
+setup-work/

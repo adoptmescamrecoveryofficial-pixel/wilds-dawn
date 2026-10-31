@@ -1,0 +1,7 @@
+Wild's Dawn 1.0
+
+Open Wild's Dawn.exe. In Game Files choose Import from: NSP packages, select your base-game NSP, supported update NSP. Choose Extract and set up. Already extracted exefs/romfs folders are supported through the other import option.
+
+The extractor tool is included. Game files are not included in the distribution. The extractor automatically detects the included files in extractor/keys. Your existing installation still opens at the Play screen.
+
+Press F2 during the game for settings. The mouse is freed while settings are open. F2, Escape, or the close button returns to the game.

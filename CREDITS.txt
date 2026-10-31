@@ -1,0 +1,5 @@
+Wild’s Dawn 1.0
+
+Based on Savage Wind Recomp by Revivedx and contributors, and LAS Recomp by Peiikai.
+Original copyright notices and license terms are retained in LICENSE.
+This custom launcher is not an official Nintendo product.

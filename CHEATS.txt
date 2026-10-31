@@ -1,0 +1,11 @@
+Wild's Dawn - In-game cheats
+
+Press F2, then choose Cheats. All options start off each time the launcher starts.
+
+Infinite air jumps: press Jump repeatedly for more upward boosts in mid-air.
+Fly / hover: move normally; hold Jump to rise, hold Crouch / left-stick press to lower toward your takeoff height. Release both to hover. Disable flight to land below the takeoff height. Choose Slow, Normal or Fast flight speed.
+Auto-heal: refills your existing hearts while playing.
+One-hit enemies: enemies take one hit to defeat. Turning this off restores surviving affected enemies. NPCs and horses are excluded.
+Disable all cheats: turns everything off.
+
+F2 or Escape closes settings and returns mouse control to the game. While settings are open, flight holds your height and movement inputs are ignored. Movement cheats wait during game pause menus and cutscenes.

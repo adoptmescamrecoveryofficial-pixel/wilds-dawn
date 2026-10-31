@@ -19,6 +19,6 @@ Build on Windows with MSYS2 UCRT64 and the dependencies described in docs/BUILD-
 See LICENSE and CREDITS.txt for upstream authorship and third-party license information. See ART-NOTES.txt in the packaged build for artwork details.
 
 
-NSP setup automatically uses the included extractor/keys files. Select only the base-game NSP and a supported update NSP.
+For NSP setup, select the base-game NSP and a supported update NSP.
 
 Open **F2 → Cheats** for infinite air jumps, fly/hover, auto-heal and one-hit enemies. Options start off each launch. See CHEATS.txt for movement controls.

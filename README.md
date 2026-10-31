@@ -2,7 +2,7 @@
 
 A customized native Breath of the Wild recompilation launcher, with cel-shaded forest artwork, an animated sword logo, gentle foliage movement, Hylia Serif menus and optional menu music.
 
-Open **Wild's Dawn.exe**, then choose **Play**. Settings and Game Files are available from the launcher. In Game Files, choose Import from: NSP packages. Select your own full Switch base-game NSP, the matching 1.8.2 or 1.9.0 update NSP, and the folder containing your own prod.keys; then choose Extract and set up. The bundled extractor merges the update and continues setup automatically. Already extracted exefs/romfs folders are also supported. Game files and console keys are not included.
+Open **Wild's Dawn.exe**, then choose **Play**. Settings and Game Files are available from the launcher. In Game Files, choose Import from: NSP packages. Select your own full Switch base-game NSP, and the matching 1.8.2 or 1.9.0 update NSP; then choose Extract and set up. The bundled extractor merges the update and continues setup automatically. Already extracted exefs/romfs folders are also supported. Game files are not included.
 
 Settings panels, tabs and dropdowns use short eased entrances. Menu highlights follow mouse or keyboard/controller input, and main-menu labels grow gently on hover.
 
